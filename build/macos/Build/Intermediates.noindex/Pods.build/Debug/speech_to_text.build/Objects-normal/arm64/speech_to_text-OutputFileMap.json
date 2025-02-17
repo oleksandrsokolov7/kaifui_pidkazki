@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/speech_to_text-master.dia",
+    "emit-module-dependencies" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/speech_to_text-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/speech_to_text-master-emit-module.dia",
+    "swift-dependencies" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/speech_to_text-master.swiftdeps"
+  },
+  "/Users/oleksandrsokolv/.pub-cache/hosted/pub.dev/speech_to_text-7.0.0/darwin/Classes/SpeechToTextPlugin.swift" : {
+    "const-values" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/SpeechToTextPlugin.swiftconstvalues",
+    "dependencies" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/SpeechToTextPlugin.d",
+    "diagnostics" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/SpeechToTextPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/SpeechToTextPlugin.o",
+    "llvm-bc" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/SpeechToTextPlugin.bc",
+    "object" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/SpeechToTextPlugin.o",
+    "swift-dependencies" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/SpeechToTextPlugin.swiftdeps",
+    "swiftmodule" : "/Users/oleksandrsokolv/development/kaifui_pidkazki/build/macos/Build/Intermediates.noindex/Pods.build/Debug/speech_to_text.build/Objects-normal/arm64/SpeechToTextPlugin~partial.swiftmodule"
+  }
+}
